@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#553955", // Background color of the active title bar
+        "titleBar.activeForeground": "#FFFFFF", // Text/icon color of the active title bar
+        "titleBar.inactiveBackground": "#553955", // Background color when the window is inactive
+        "titleBar.inactiveForeground": "#CCCCCC", // Text/icon color when inactive
+        "activityBar.background": "#553955", // Activity bar background color
+        "activityBar.foreground": "#FFFFFF" // Activity bar icons/text color
+    }
+}

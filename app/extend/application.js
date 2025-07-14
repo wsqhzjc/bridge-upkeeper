@@ -5,10 +5,10 @@ const WEB3ONETH = Symbol('Application#web3OnETH');
 const PLEDGEBRIDGEBSCCONTRACT = Symbol('Application#pledgBridgeBSCContract');
 
 const pledgeBridgeBSCAbi = require("../abis/pledgeBridgeBSC.json");
-const pledgeBridgeBSCAddress = "0xd6169DF58c6886D354A2eA93391D1E0F222D5080";
+const pledgeBridgeBSCAddress = "0xac146f0BfecE6C48e4ac65BbcE687A6c3cC10878";
 
 // Bridge 相关
-const privateKey =  "d355ce1b91b16a0fc6953cc20ec75e19060487a1a157679819d68595bc1e7ca3";//process.env.PRIVATE_KEY;
+const privateKey =  "6ba7a8b95da1d52c70cfa11d92bc888555ec243289b79d7548e9b713cde197b7";//process.env.PRIVATE_KEY;
 
 module.exports = {
   get web3() {
